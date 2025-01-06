@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lachho/tictactoe/static/css/main.e6c13ad2.css",
+    "main.js": "/lachho/tictactoe/static/js/main.6df7fc40.js",
+    "index.html": "/lachho/tictactoe/index.html",
+    "main.e6c13ad2.css.map": "/lachho/tictactoe/static/css/main.e6c13ad2.css.map",
+    "main.6df7fc40.js.map": "/lachho/tictactoe/static/js/main.6df7fc40.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.6df7fc40.js"
+  ]
+}
